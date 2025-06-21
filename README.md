@@ -34,6 +34,11 @@ This project is a Space Invaders-style game where players control a spaceship to
   - Game entities (Player, Aliens, Bullets)
   - Health system
   - Explosion effects
+      
+## Images
+![image](https://github.com/user-attachments/assets/b6345141-67e0-46b6-811b-e5e61140e578)
+![image](https://github.com/user-attachments/assets/072b1f72-371a-4e85-a729-3cb5243db8f2)
+
 
 ## Controls
 
